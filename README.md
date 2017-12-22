@@ -8,3 +8,4 @@ This Repo is for the iOS application of MemeME. An application that takes pictur
 ## Contribution
 
  - Want to contribute? Contact me through twitter! Or ask for a pull request! 
+ [My Twitter](https://twitter.com/Michael_Ocasio1)
